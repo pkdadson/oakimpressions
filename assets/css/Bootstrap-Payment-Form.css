@@ -1,0 +1,26 @@
+.credit-card-box .panel-title{
+  font-weight:bold;
+  overflow:hidden;
+}
+
+.credit-card-box .panel-title .panel-title-text{
+  max-width:50px;
+  float:left;
+}
+
+.credit-card-box .panel-title .panel-title-image{
+  max-width:140px;
+  float:right;
+}
+
+.credit-card-box label{
+  display:block;
+}
+
+.credit-card-box .panel-body .control-label{
+  text-transform:uppercase;
+}
+
+div.row..payment-dialog-row{
+}
+
